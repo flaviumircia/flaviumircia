@@ -6,7 +6,6 @@
   🏆 3rd Place at Student Scientific Communications Contest 2022 for IT&C.
   
   🧠 Proficient in Java, Python, Spring, Django, Machine Learning
-  
     </br>
   <h2 align="center">👇My Projects Below 👇</h2>
   
