@@ -7,7 +7,6 @@
   
   🧠 Proficient in Java, Python, Spring, Django, Machine Learning
   
-  🥇 Gold level hackerrank Java badge.
     </br>
   <h2 align="center">👇My Projects Below 👇</h2>
   
