@@ -3,11 +3,11 @@
 ## About me
   I am a Computer Engineering student looking to discover new challenges.
   
-  🏆 3rd Place at Student Scientific Communications Contest 2022 for IT&C.
+   3rd Place at Student Scientific Communications Contest 2022 for IT&C.
   
-  🧠 Proficient in Java, Python, Spring, Django, Machine Learning
+   Proficient in Java, Python, Spring, Django, Machine Learning
     </br>
-  <h2 align="center">👇My Projects Below 👇</h2>
+  <h2 align="center">My Projects Below</h2>
   
 <!---
 flaviumircia/flaviumircia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
