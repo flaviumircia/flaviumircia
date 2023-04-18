@@ -5,9 +5,13 @@
   
    3rd Place at Student Scientific Communications Contest 2022 for IT&C.
   
-   Proficient in Java, Python, Spring, Django, Machine Learning
-    </br>
-  <h2 align="center">My Projects Below</h2>
+   Undergraduate Teaching Assistant @ UPB.
+  
+   Proficient in Java, Python, Spring, Android Development, Django, Machine Learning.
+   
+   </br>
+   
+  <h2 align="center">Some of my projects below</h2>
   
 <!---
 flaviumircia/flaviumircia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
