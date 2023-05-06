@@ -2,8 +2,10 @@
 ></h1>
 ## About me
   I am a Computer Engineering student looking to discover new challenges.
-  
-   3rd Place at Student Scientific Communications Contest 2022 for IT&C.
+    
+   1st Place @ Student Scientific Communications Contest 2023 for IT&C.
+   
+   3rd Place @ Student Scientific Communications Contest 2022 for IT&C.
   
    Undergraduate Teaching Assistant @ UPB.
   
